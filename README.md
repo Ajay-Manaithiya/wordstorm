@@ -17,10 +17,7 @@ Open `index.html` in your browser or visit the hosted game:
 https://ajay-manaithiya.github.io/wordstorm/
 
 ## Enable GitHub Pages
-1. Open the repository's **Settings → Pages**.
-2. Under **Build and deployment**, choose **Deploy from a branch**.
-3. Select **main**, **/(root)** and save.
-4. Once deployed, share https://ajay-manaithiya.github.io/wordstorm/ with friends.
+Play by this link https://ajay-manaithiya.github.io/wordstorm/ and share with friends.
 
 ## Global leaderboard (optional)
 GitHub Pages is a static host, so it cannot store scores from all players on its own. To activate the public leaderboard:
